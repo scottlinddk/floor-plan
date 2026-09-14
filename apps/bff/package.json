@@ -1,0 +1,11 @@
+{
+  "name": "@floorplan3d/bff",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'bff has no endpoints yet — Phase 3 wires this up against the digitization provider' && exit 0",
+    "build": "echo 'nothing to build yet' && exit 0",
+    "typecheck": "echo 'no source yet' && exit 0"
+  }
+}
